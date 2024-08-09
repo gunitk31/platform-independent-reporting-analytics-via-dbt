@@ -1,0 +1,9 @@
+{
+    "dbt.dbtPythonPathOverride": "C:\\Users\\gunit\\OneDrive\\Documents\\Study Material\\DBT\\Code\\venv_dbtlearn_311\\Scripts\\python.exe",
+    "dbt.enableNewQueryPanel": false,
+    "dbt.queryLimit": 500,
+    "files.associations": {
+        "*.sql": "jinja-sql"
+    },
+    "python.defaultInterpreterPath": "C:\\Users\\gunit\\OneDrive\\Documents\\Study Material\\DBT\\Code\\venv_dbtlearn_311\\Scripts\\python.exe"
+}
